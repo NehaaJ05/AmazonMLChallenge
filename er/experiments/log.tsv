@@ -1,0 +1,2 @@
+timestamp	git	rung	owner	blocking	matcher	threshold	candidate_recall	cands_per_s1	oracle_f05	pair_precision	pair_recall	final_f05	f05_singletons	f05_nonsingletons	notes
+2026-09-26T22:13:38	aa02715	0	A+B	rung0_exact+prefix(p=8,cap=500)	rung0_weighted_sim(w_name=0.6,miss=renorm)	0.8500	0.5615	62.3428	0.7559	0.6845	0.4491	0.5679	0.5386	0.5697	coarse-sweep best t=0.85 F=0.5679. rung0 rerun after package merge. t=0.85 chosen on the same val split it's reported on; slightly optimistic.

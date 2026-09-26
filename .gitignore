@@ -28,3 +28,7 @@ Thumbs.db
 __MACOSX/
 .DS_Store
 ._*
+
+.venv/
+outputs/
+student_resource/dataset/
