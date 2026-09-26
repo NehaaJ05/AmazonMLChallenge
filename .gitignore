@@ -1,0 +1,30 @@
+# Challenge dataset
+student_resource/dataset/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# VS Code / IDE
+.vscode/
+.idea/
+
+# Generated outputs
+output/
+
+# Large experiment artifacts
+experiments/*.pkl
+experiments/*.joblib
+experiments/*.model
+
+# OS
+.DS_Store
+Thumbs.db
+
+# macOS metadata
+__MACOSX/
+.DS_Store
+._*
